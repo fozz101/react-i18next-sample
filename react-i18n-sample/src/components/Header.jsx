@@ -41,6 +41,7 @@ const Header = () => {
               <option value="en">English</option>
               <option value="fr">Français</option>
               <option value="es">Espanol</option>
+              <option value="ar">عربي</option>
             </select>
           </li>
           <li className="nav-item ml-2">
